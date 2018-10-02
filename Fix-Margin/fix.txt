@@ -1,0 +1,1 @@
+Fixed margin issue by setting the 'body' style to have a margin = 0px
