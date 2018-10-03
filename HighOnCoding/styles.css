@@ -4,6 +4,7 @@
     color: white;
     word-spacing: 50px;
     font-family: "Arial";
+    text-align: center;
 }
 
 .square {
@@ -11,22 +12,28 @@
     width: 300px;
     height: 300px;
     margin: 30px;
-    justify-content: center;
+    
 }
 
 .square h2 {
     text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 75px;
     
 }
 
 .square p {
     text-align: center;
-    margin-top: 200px;
+    position: relative;
+    top: 160px;
+    
 }
 
 .flex-container {
     display: flex;
     padding: 10px;
+    justify-content: center;
 }
 
 .grey-bar {
